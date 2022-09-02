@@ -20,7 +20,7 @@ Returns the utilties table.
 
 ## Grabbing Character Info
 ```lua
-<table> utilties:getCharacter(<player> player);
+<table> utilties:getCharacter(<player> player); -- Please note the fact that Rushpoint models aren't R6, I've only organized their limbs that way.
 ```
 If the player character exists, returns:
 ```lua
