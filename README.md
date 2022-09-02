@@ -25,15 +25,15 @@ Returns the utilties table.
 If the player character exists, returns:
 ```lua
 <table> {
-Character = <model>Character;
-Head = <part>Head;
-Torso = <part>Torso;
-LeftArm = <part>Left Arm;
-RightArm = <part>Right Arm;
-LeftLeg = <part>Left Leg;
-RightLeg = <part>Right Leg;
-Health = <int>Health;
-Gun = <string>Gun;
+  Character = <model>Character;
+  Head = <part>Head;
+  Torso = <part>Torso;
+  LeftArm = <part>Left Arm;
+  RightArm = <part>Right Arm;
+  LeftLeg = <part>Left Leg;
+  RightLeg = <part>Right Leg;
+  Health = <int>Health;
+  Gun = <string>Gun;
 };
 ```
 Else; returns `nil`
