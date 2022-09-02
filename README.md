@@ -8,7 +8,7 @@ Make your own cheats, it's really easy.
 
 *Obfuscated because Axillary Studious likes to lurk and patch open-sourced releases*
 
-# Loading Utilties
+# Documentation
 
 ## Grabbing the utilities
 ```lua
