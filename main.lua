@@ -1,4 +1,4 @@
--- Hello new user and/or rushpoint developer!
+-- Hello rushpoint developer!
 
 local M,z,l=nil,nil,nil([[
 
