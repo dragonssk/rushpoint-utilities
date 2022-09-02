@@ -20,30 +20,25 @@ Returns the utilties table.
 
 ## Grabbing Character Info
 ```lua
-<table> utilties:getCharacter(<player> player); -- Please note the fact that Rushpoint models aren't R6, I've only organized their limbs that way.
+function utilities:getCharacter(player: Player): table
+    return {
+        Character = char: Model
+	Head = head: BasePart
+        Torso = torso: BasePart
+        LeftLeg = leftLeg: BasePart
+        LeftArm = leftArm: BasePart
+        RightLeg = rightLeg: BasePart
+        RightArm = rightArm: BasePart
+        Health = health: number
+        Gun = gunName: string
+    };
+end;
 ```
-If the player character exists, returns:
-```lua
-<table> {
-  Character = <model>Character;
-  Head = <part>Head;
-  Torso = <part>Torso;
-  LeftArm = <part>Left Arm;
-  RightArm = <part>Right Arm;
-  LeftLeg = <part>Left Leg;
-  RightLeg = <part>Right Leg;
-  Health = <int>Health;
-  Gun = <string>Gun;
-};
-```
-Else; returns `nil`
-
+Make sure to check the character isn't `nil` in your scripts!
 ## Grabbing Player Info
 ```lua
-<string>utilities:getTeam(<player> player);
+function utilities:getTeam(player: Player(): string
+    return playerTeam;
+end;
 ```
-If the player has a team, returns
-```lua
-<string> playerTeam
-```
-Else; returns `'None'`
+I don't believe you have to check `nil` teams, but I still recommend it because it's a resolution in the library!
