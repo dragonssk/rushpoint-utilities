@@ -1,6 +1,6 @@
 # Rushpoint Utilities
 
-Extremely Basic Player Utilities designed to support the roblox game [Rushpoint](https://www.roblox.com/games/5993942214/NEW-UPDATE-Rush-Point)
+Extremely Basic Player Utilities designed to support the Roblox Valorant clone game [Rushpoint](https://www.roblox.com/games/5993942214/NEW-UPDATE-Rush-Point)
 
 Created this because:
 - Rushpoint has a really easily bypassable anticheat
