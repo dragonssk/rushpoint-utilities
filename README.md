@@ -6,7 +6,7 @@ Made this due to people selling extremely basic ass aimbot and esp scripts for d
 
 Make your own cheats, it's really easy.
 
-*Obfuscated because Axillary Studious like to lurk and patch open-sourced releases*
+*Obfuscated because Axillary Studious likes to lurk and patch open-sourced releases*
 
 # Loading Utilties
 
