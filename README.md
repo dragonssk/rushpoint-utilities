@@ -4,7 +4,7 @@ Extremely Basic Player Utilities designed to support the roblox game [Rushpoint]
 
 Made this due to people selling extremely basic ass aimbot, esp, and silent aim scripts for dumb amounts of money, and lots of people buying them
 
-Please stop spending your parents' hard earned money and make your own cheats, script kiddie
+Make your own cheats, it's really easy.
 
 # Loading Utilties
 
