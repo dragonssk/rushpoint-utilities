@@ -2,7 +2,9 @@
 
 Extremely Basic Player Utilities designed to support the roblox game [Rushpoint](https://www.roblox.com/games/5993942214/NEW-UPDATE-Rush-Point)
 
-Made this due to people selling extremely basic ass aimbot and esp scripts for dumb amounts of money, and loads of people buying them
+Created this because:
+- Rushpoint has a really easily bypassable anticheat
+- There is a lack of working free scripts for Rushpoint
 
 Make your own cheats, it's really easy.
 
