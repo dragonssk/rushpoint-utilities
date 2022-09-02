@@ -12,7 +12,7 @@ Make your own cheats, it's really easy.
 
 ## Grabbing the utilities
 ```lua
-local utilties = loadstring(game:HttpGet('https://raw.githubusercontent.com/dragonssk/rushpoint-utilities/main/main.lua'))('github.com/dragonssk dragons#9500');
+local utilties = loadstring(game:HttpGet('https://raw.githubusercontent.com/dragonssk/rushpoint-utilities/main/main.lua'))('github.com/dragonssk');
 ```
 Returns the utilties table.
 
