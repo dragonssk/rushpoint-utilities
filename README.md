@@ -8,8 +8,6 @@ Created this because:
 
 If you're new to Lua and don't know how to use this, [I've created an example ESP/wallhack script](https://github.com/dragonssk/rushpoint-utilities/blob/main/example.lua) that is fully open-sourced with notes and explanations.
 
-Make your own cheats, it's really easy.
-
 *Obfuscated because Axillary Studios likes to lurk and patch open-sourced releases*
 
 # Documentation
