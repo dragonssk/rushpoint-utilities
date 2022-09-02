@@ -8,6 +8,8 @@ Created this because:
 
 Make your own cheats, it's really easy.
 
+This library is free to use under the MIT License
+
 *Obfuscated because Axillary Studious likes to lurk and patch open-sourced releases*
 
 # Documentation
