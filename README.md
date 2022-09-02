@@ -20,8 +20,8 @@ Returns the utilties table.
 ```
 If the player character exists, returns:
 ```lua
-{
-Character = <model>Character
+<table> {
+Character = <model>Character;
 Head = <part>Head;
 Torso = <part>Torso;
 LeftArm = <part>Left Arm;
