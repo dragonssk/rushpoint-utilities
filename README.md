@@ -1,6 +1,6 @@
 # Rushpoint Utilities
 
-Extremely Basic Player Utilities designed to support the roblox game [Rushpint](https://www.roblox.com/games/5993942214/NEW-UPDATE-Rush-Point)
+Extremely Basic Player Utilities designed to support the roblox game [Rushpoint](https://www.roblox.com/games/5993942214/NEW-UPDATE-Rush-Point)
 
 Made this due to people selling extremely basic ass aimbot, esp, and silent aim scripts for dumb amounts of money, and lots of people buying them
 
