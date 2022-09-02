@@ -10,7 +10,7 @@ If you're new to Lua and don't know how to use this, [I've created an example ES
 
 Make your own cheats, it's really easy.
 
-*Obfuscated because Axillary Studious likes to lurk and patch open-sourced releases*
+*Obfuscated because Axillary Studios likes to lurk and patch open-sourced releases*
 
 # Documentation
 
