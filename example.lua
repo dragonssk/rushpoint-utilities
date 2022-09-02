@@ -2,7 +2,7 @@
 -- https://github.com/dragonssk/rushpoint-utilities
 -- If you distribute this source code on external websites, please provide credit to the original Github repository.
 
-local utilities      = loadstring(game:HttpGet('https://raw.githubusercontent.com/dragonssk/rushpoint-utilities/main/main.lua'))('github.com/dragonssk');
+local utilities     = loadstring(game:HttpGet('https://raw.githubusercontent.com/dragonssk/rushpoint-utilities/main/main.lua'))('github.com/dragonssk');
 local playerService = game:GetService('Players');
 local runService    = game:GetService('RunService');
 local localPlayer   = playerService.LocalPlayer;
