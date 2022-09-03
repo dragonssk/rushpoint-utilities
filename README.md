@@ -34,7 +34,7 @@ function utilities:getCharacter(player: Player): table
     }
 end
 ```
-Make sure to check the character isn't `nil` in your scripts!
+Make sure to check that the character isn't `nil` in your scripts!
 ## Grabbing Player Info
 ```lua
 function utilities:getTeam(player: Player): string
