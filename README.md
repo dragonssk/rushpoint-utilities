@@ -31,14 +31,14 @@ function utilities:getCharacter(player: Player): table
         RightArm = rightArm: BasePart
         Health = health: number
         Gun = gunName: string
-    };
-end;
+    }
+end
 ```
 Make sure to check the character isn't `nil` in your scripts!
 ## Grabbing Player Info
 ```lua
 function utilities:getTeam(player: Player): string
-    return playerTeam;
-end;
+    return playerTeam: string
+end
 ```
 I don't believe you have to check `nil` teams, but I still recommend it because it's a resolution in the library!
