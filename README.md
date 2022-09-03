@@ -38,7 +38,7 @@ Make sure to check that the character isn't `nil` in your scripts!
 ## Grabbing Player Info
 ```lua
 function utilities:getTeam(player: Player): string
-    return playerTeam: string
+    return playerTeam
 end
 ```
 I don't believe you have to check `nil` teams, but I still recommend it because it's a resolution in the library!
