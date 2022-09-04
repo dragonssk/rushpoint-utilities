@@ -10,6 +10,9 @@ If you're new to Lua and don't know how to use this, [I've created an example ES
 
 *Obfuscated because Axillary Studios likes to lurk and patch open-sourced releases*
 
+Update (9/03/22)
+It looks like Axillary Studios tried to push an update to patch this, nice try though
+
 # Documentation
 
 ## Grabbing the utilities
