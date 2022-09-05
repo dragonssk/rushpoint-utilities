@@ -26,15 +26,15 @@ Returns the utilties table.
 ```lua
 function utilities:getCharacter(player: Player): table
     return {
-        Character = char: Model
-	Head = head: BasePart
-        Torso = torso: BasePart
-        LeftLeg = leftLeg: BasePart
-        LeftArm = leftArm: BasePart
-        RightLeg = rightLeg: BasePart
-        RightArm = rightArm: BasePart
-        Health = health: number
-        Gun = gunName: string
+        Character: Model = char
+	Head: BasePart = head
+        Torso: BasePart = torso
+        LeftLeg: BasePart = leftLeg
+        LeftArm: BasePart = leftArm
+        RightLeg: BasePart = rightLeg
+        RightArm: BasePart = rightArm
+        Health: number = health
+        Gun: string = gunName
     }
 end
 ```
