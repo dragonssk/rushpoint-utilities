@@ -8,6 +8,8 @@ Created this because:
 
 If you're new to Lua and don't know how to use this, [I've created an example ESP/wallhack script](https://github.com/dragonssk/rushpoint-utilities/blob/main/example.lua) that is fully open-sourced with notes and explanations.
 
+Contains all useful information that you can't universally grab such as .Character and .Team
+
 *Obfuscated because Axillary Studios likes to lurk and patch open-sourced releases*
 
 Update (9/03/22)
