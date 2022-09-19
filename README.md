@@ -45,4 +45,4 @@ function utilities:getTeam(player: Player): string
     return playerTeam
 end
 ```
-I don't believe you have to check `nil` teams, but I still recommend it because it's a resolution in the library!
+I don't believe you have to check `nil` teams, but I still recommend it because it's a resolution in the library
