@@ -16,6 +16,10 @@ Update (9/03/22)
 
 It looks like Axillary Studios tried to push an update to patch this, nice try though
 
+Update (9/30/22)
+
+999 updates patching 999 other cheats but my shitty free ESP still works.
+
 # Documentation
 
 ## Grabbing the utilities
