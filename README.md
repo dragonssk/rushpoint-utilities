@@ -10,6 +10,8 @@ If you're new to Lua and don't know how to use this, [I've created an example ES
 
 Contains all useful information that you can't universally grab such as .Character and .Team
 
+**STATUS: UNPATCHED (10/16/22)**
+
 *Obfuscated because Axillary Studios likes to lurk and patch open-sourced releases*
 
 Update (9/03/22)
